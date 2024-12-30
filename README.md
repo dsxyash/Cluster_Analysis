@@ -1,0 +1,1 @@
+A cluster analysis was conducted where cluster algorithms were explored and utilized with libraries such as Pandas, Seaborn, whereas models were built using Scikit-Learn. The dataset that was used was containing information about customers and their spending scores, where the aim was to evaluate the techniques' performance.
